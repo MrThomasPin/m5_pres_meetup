@@ -130,3 +130,9 @@ dmypy.json
 
 #no data push
 *.csv
+
+#custom ignores 
+promophoto.png
+M5-Competitors-Guide-Final-10-March-2020.docx
+notebook/M5 EDA + Model.ipynb
+
